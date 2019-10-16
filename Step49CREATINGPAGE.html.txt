@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<title>Write title here.</title>
+		<meta charset="utf-8">
+	</head>
+	<body>
+	<h1>Dogs are Good</h>
+	<h3>But they shed!</h3>
+	<p>I love dogs too much and will do anything for them.</p>
+	</body>
+</html>

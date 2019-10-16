@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en'>
+	<head>
+		<title>Dogs and History</title>
+		<meta charset="utf-8">
+	</head>
+	<body>
+	<h1>Dogs are Good</h1>
+		<main>
+			<h3>They are smart too!</h3>
+			<p> We all under estamate dogs alittle too much.</p>
+			<a href ="Dog.html">One Cute Dog</a>
+			<a href="http://carlsonscountrycorner.com/images/560_DSC00574.jpg">Another Smart Dog</a>
+			<footer>Your own knowlage</footer>
+		</main>
+	</body>
+</html>
+	
