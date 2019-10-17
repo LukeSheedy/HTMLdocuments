@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<title>Dogs.</title>
+		<meta charset="utf-8">
+	</head>
+	<main>
+		<body>
+		<nav>
+		    <a href="Dog_Pic.html">This Cute Dog</a>
+			<a href="Assignment(65).html"> This Page is Informational</a>
+			<a href="https://www.bing.com/videos/search?q=youtube+dog+video+rottweiler+puppy&view=detail&mid=57B1E9E20676FEF584FA57B1E9E20676FEF584FA&FORM=VIRE">This Cute Rot Puppie</a>
+			</nav>
+			<img src="https://thumbs.dreamstime.com/z/metis-dog-23069873.jpg">
+		</Body>
+	</main>
+	
+</html>
